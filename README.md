@@ -6,6 +6,7 @@
 1. [JPG to AVIF](https://jpgtoavif.web.app)
     1. [Convert JPG to AVIF for FREE](https://www.youtube.com/watch?v=7Y8aADJLUMI)
     2. [JPG to AVIF](https://www.youtube.com/watch?v=ewHI3_OFq8Y)
+    3. [Convert from JPG to AVIF with ease!](https://www.youtube.com/watch?v=zz9CLQOlWeQ)
 1. [Lalisa - Video Editor for Humans](https://lalisa.web.app)
 1. [PNG to WebP](https://pngtowebp.web.app)
 1. [RSSCMO | Record Screen, Speaker, Camera, Microphone Online](https://rsscmo.web.app)
