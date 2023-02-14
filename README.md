@@ -21,3 +21,4 @@
 ## Reviews
 
 1. [20 Best Tools for the Web](https://medium.com/@kangchaklk/20-best-tools-for-the-web-a47e1a684bf8)
+2. [16 Apps You Can’t Live Without](https://medium.com/@kangchaklk/16-apps-you-cant-live-without-4d7096464497)
