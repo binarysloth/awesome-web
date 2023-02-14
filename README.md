@@ -17,3 +17,7 @@
 2. [GIF to PNG](https://giftopng.web.app)
 3. [GIF to JPG](https://giftojpg.web.app)
 4. [GIF to WebP](https://giftowebp.web.app)
+
+## Reviews
+
+1. [20 Best Tools for the Web](https://medium.com/@kangchaklk/20-best-tools-for-the-web-a47e1a684bf8)
