@@ -23,6 +23,7 @@
 3. [GIF to JPG](https://giftojpg.web.app)
 4. [GIF to WebP](https://giftowebp.web.app)
 1. [JPG to WebP](https://jpgtowebp.web.app/)
+1. [PNG to JPG](https://pngtojpg.web.app)
 
 ## Reviews
 
