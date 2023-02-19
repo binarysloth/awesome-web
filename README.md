@@ -27,6 +27,7 @@
 1. [7Zip to ZIP](https://from7ziptozip.web.app)
     1. [7Zip to ZIP](https://www.youtube.com/watch?v=FmjDlRnYI3g)
     3. [How to open .7z files](https://youtu.be/MXJStrh9sK4)
+    4. [How to convert .7zip to .zip](https://medium.com/@kangchaklk/how-to-convert-7zip-to-zip-a7b4f4d6efd2)
 1. [Night N Day](https://nightnday.web.app)
     1. [Want a big TIME? Here an app with a big time!](https://youtu.be/5mrjRDu3xkk)
     2. [Night N Day don't passed for nothing](https://youtu.be/e1HCrk3IOuM)
