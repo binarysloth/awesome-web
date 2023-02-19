@@ -25,7 +25,7 @@
 1. [JPG to WebP](https://jpgtowebp.web.app/)
 1. [PNG to JPG](https://pngtojpg.web.app)
 1. [7Zip to ZIP](https://from7ziptozip.web.app)
-    2. [7Zip to ZIP](https://www.youtube.com/watch?v=FmjDlRnYI3g)
+    1. [7Zip to ZIP](https://www.youtube.com/watch?v=FmjDlRnYI3g)
     3. [How to open .7z files](https://youtu.be/MXJStrh9sK4)
 1. [Night N Day](https://nightnday.web.app)
     1. [Want a big TIME? Here an app with a big time!](https://youtu.be/5mrjRDu3xkk)
