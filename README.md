@@ -31,6 +31,7 @@
 1. [Night N Day](https://nightnday.web.app)
     1. [Want a big TIME? Here an app with a big time!](https://youtu.be/5mrjRDu3xkk)
     2. [Night N Day don't passed for nothing](https://youtu.be/e1HCrk3IOuM)
+    3. [Night and Day Don’t Pass By for Nothing; It Takes Your Life](https://medium.com/@kangchaklk/night-and-day-dont-pass-by-for-nothing-it-takes-your-life-9c3cc8b4bfff)
 
 ## Reviews
 
