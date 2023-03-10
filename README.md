@@ -34,7 +34,7 @@
     3. [Night and Day Don’t Pass By for Nothing; It Takes Your Life](https://medium.com/@kangchaklk/night-and-day-dont-pass-by-for-nothing-it-takes-your-life-9c3cc8b4bfff)
 1. [MP4 to MP3](https://mp4tomp3.web.app)
 1. [Decimal to Hexadecimal](https://dectohex.web.app)
-1. [Decimal to Hexadecimal](https://decimaltohex.web.app)
+1. [Decimal to Hexadecimal 2](https://decimaltohex.web.app)
 
 ## Reviews
 
